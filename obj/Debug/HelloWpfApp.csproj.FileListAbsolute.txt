@@ -1,0 +1,16 @@
+D:\PemrogramanLanjut\HelloWpfApp\bin\Debug\HelloWpfApp.exe.config
+D:\PemrogramanLanjut\HelloWpfApp\bin\Debug\HelloWpfApp.exe
+D:\PemrogramanLanjut\HelloWpfApp\bin\Debug\HelloWpfApp.pdb
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\HelloWpfApp.csproj.AssemblyReference.cache
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\HelloWpfApp.csproj.SuggestedBindingRedirects.cache
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\Greetings.g.cs
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\App.g.cs
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\HelloWpfApp_MarkupCompile.cache
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\HelloWpfApp_MarkupCompile.lref
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\Greetings.baml
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\HelloWpfApp.g.resources
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\HelloWpfApp.Properties.Resources.resources
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\HelloWpfApp.csproj.GenerateResource.cache
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\HelloWpfApp.csproj.CoreCompileInputs.cache
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\HelloWpfApp.exe
+D:\PemrogramanLanjut\HelloWpfApp\obj\Debug\HelloWpfApp.pdb
